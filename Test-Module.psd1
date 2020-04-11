@@ -1,7 +1,7 @@
 
 @{
     RootModule        = 'Test-Module.psm1'
-    ModuleVersion     = '1.0.1'
+    ModuleVersion     = '1.0.2'
     GUID              = '2c8249fb-47bc-49ee-9fe6-79a2fd52ead0'
     Author            = 'Alan'
     CompanyName       = 'Alan'
